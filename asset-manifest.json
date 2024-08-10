@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/arya630160.github.io/login-signup/static/css/main.621665cd.css",
-    "main.js": "/arya630160.github.io/login-signup/static/js/main.0fca66f8.js",
-    "static/js/453.1b6d1e41.chunk.js": "/arya630160.github.io/login-signup/static/js/453.1b6d1e41.chunk.js",
-    "static/media/logo.svg": "/arya630160.github.io/login-signup/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/arya630160.github.io/login-signup/index.html",
-    "main.621665cd.css.map": "/arya630160.github.io/login-signup/static/css/main.621665cd.css.map",
-    "main.0fca66f8.js.map": "/arya630160.github.io/login-signup/static/js/main.0fca66f8.js.map",
-    "453.1b6d1e41.chunk.js.map": "/arya630160.github.io/login-signup/static/js/453.1b6d1e41.chunk.js.map"
+    "main.css": "/Login-Signup-form-with-reactjs/static/css/main.621665cd.css",
+    "main.js": "/Login-Signup-form-with-reactjs/static/js/main.1dc141db.js",
+    "static/js/453.1b6d1e41.chunk.js": "/Login-Signup-form-with-reactjs/static/js/453.1b6d1e41.chunk.js",
+    "static/media/logo.svg": "/Login-Signup-form-with-reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Login-Signup-form-with-reactjs/index.html",
+    "main.621665cd.css.map": "/Login-Signup-form-with-reactjs/static/css/main.621665cd.css.map",
+    "main.1dc141db.js.map": "/Login-Signup-form-with-reactjs/static/js/main.1dc141db.js.map",
+    "453.1b6d1e41.chunk.js.map": "/Login-Signup-form-with-reactjs/static/js/453.1b6d1e41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.621665cd.css",
-    "static/js/main.0fca66f8.js"
+    "static/js/main.1dc141db.js"
   ]
 }
